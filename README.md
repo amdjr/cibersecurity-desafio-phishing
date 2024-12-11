@@ -1,4 +1,4 @@
-# Resltado do Desafio Phishing para captura de senhas do Facebook (DIO) 
+# Resultado do Desafio Phishing para captura de senhas do Facebook (DIO) 
 
 ### Ferramentas
 
